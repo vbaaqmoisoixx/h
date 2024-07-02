@@ -69,6 +69,6 @@
       },
       {
         "nome": "Feijão",
-        "imagem": "/assets/feijao.webp"
+        "imagem": "./assets/feijao.webp"
       }
 ]
