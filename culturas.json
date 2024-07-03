@@ -1,0 +1,74 @@
+[
+      {
+        "nome": "Café Conilon",
+        "imagem": "./assets/conilon.webp"
+      },
+      {
+        "nome": "Café Arábica",
+        "imagem": "./assets/arabica.webp"
+      },
+      {
+        "nome": "Tomates",
+        "imagem": "./assets/tomate.webp"
+      },
+      {
+        "nome": "Pimentões",
+        "imagem": "./assets/pimentao.webp"
+      },
+      {
+        "nome": "Morangos",
+        "imagem": "./assets/morango.webp"
+      },
+      {
+        "nome": "Abacates",
+        "imagem": "./assets/abacate.webp"
+      },
+      {
+        "nome": "Milhos",
+        "imagem": "./assets/milho.webp"
+      },
+      {
+        "nome": "Mamãos",
+        "imagem": "./assets/mamao.webp"
+      },
+      {
+        "nome": "Cacaus",
+        "imagem": "./assets/cacau.webp"
+      },
+      {
+        "nome": "Pimenta do Reino",
+        "imagem": "./assets/pimenta-do-reino.webp"
+      },
+      {
+        "nome": "Pepinos",
+        "imagem": "./assets/pepino.webp"
+      },
+      {
+        "nome": "Repolhos",
+        "imagem": "./assets/repolho.webp"
+      },
+      {
+        "nome": "Couve-flores",
+        "imagem": "./assets/couve-flor.webp"
+      },
+      {
+        "nome": "Brócolis",
+        "imagem": "./assets/bocolis.webp"
+      },
+      {
+        "nome": "Abobrinhas",
+        "imagem": "./assets/abobrinha.webp"
+      },
+      {
+        "nome": "Abóboras",
+        "imagem": "./assets/abobora.webp"
+      },
+      {
+        "nome": "Melancias",
+        "imagem": "./assets/melancia.webp"
+      },
+      {
+        "nome": "Feijão",
+        "imagem": "./assets/feijao.webp"
+      }
+]
